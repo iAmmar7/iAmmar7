@@ -87,8 +87,7 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 [![Ammar's Github Stats](https://github-readme-stats.vercel.app/api?username=iAmmar7&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- <img align="left" alt="iAmmar7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iAmmar7&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmmar7)](https://github.com/anuraghazra/github-readme-stats)
 
 [working]: https://parhako.com
 [facebook]: https://www.facebook.com/itsammar.7
