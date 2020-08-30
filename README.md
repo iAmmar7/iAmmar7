@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [<img style="padding: 6px" align="left" alt="NextJS" width="25px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />](https://github.com/vercel/next.js)
 [<img style="padding: 6px" align="left" alt="Babel" width="25px" src="https://avatars0.githubusercontent.com/u/9637642?s=200&v=4" />](https://github.com/babel)
 [<img style="padding: 6px" align="left" alt="Webpack" width="25px" src="https://avatars1.githubusercontent.com/u/2105791?s=200&v=4" />](https://github.com/webpack)
-[<img style="padding: 6px" align="left" alt="WordPress" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress)
+[<img style="padding: 6px" align="left" alt="WordPress" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress)<br/>
 
 #### Mobile
 
@@ -85,8 +85,6 @@ Here are some ideas to get you started:
 <br />
 
 ---
-
-<br />
 
 [working]: https://parhako.com
 [facebook]: https://www.facebook.com/itsammar.7
