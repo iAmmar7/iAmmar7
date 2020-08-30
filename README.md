@@ -41,18 +41,14 @@ Here are some ideas to get you started:
 [<img align="left" alt="NextJS" width="25px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />](https://github.com/vercel/next.js)
 [<img align="left" alt="Babel" width="25px" src="https://avatars0.githubusercontent.com/u/9637642?s=200&v=4" />](https://github.com/babel)
 [<img align="left" alt="Webpack" width="25px" src="https://avatars1.githubusercontent.com/u/2105791?s=200&v=4" />](https://github.com/webpack)
-[<img align="left" alt="WordPress" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress)
-
-<br />
+[<img align="left" alt="WordPress" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress)<br />
 
 #### Mobile
 
 [<img align="left" alt="React-Native" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](https://github.com/facebook/react-native)
 [<img align="left" alt="Android Studio" width="25px" src="https://avatars1.githubusercontent.com/u/32689599?s=200&v=4" />](https://github.com/android)
 [<img align="left" alt="Google Maps" width="25px" src="https://avatars0.githubusercontent.com/u/3717923?s=200&v=4" />](https://github.com/googlemaps)
-[<img align="left" alt="Firebase" width="25px" src="https://avatars2.githubusercontent.com/u/1335026?s=200&v=4" />](https://github.com/firebase)
-
-<br />
+[<img align="left" alt="Firebase" width="25px" src="https://avatars2.githubusercontent.com/u/1335026?s=200&v=4" />](https://github.com/firebase)<br />
 
 #### Server Side
 
@@ -74,9 +70,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Nodemailer" width="40px" src="https://avatars0.githubusercontent.com/u/16486629?s=200&v=4" />](https://github.com/nodemailer)
 [<img align="left" alt="Heroku" width="25px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />](https://github.com/heroku)
 [<img align="left" alt="Heroku" width="25px" src="https://avatars0.githubusercontent.com/u/11480641?s=200&v=4" />](https://github.com/surge-sh)
-[<img align="left" alt="Heroku" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless)
-
-<br />
+[<img align="left" alt="Heroku" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless)<br />
 
 #### Databases
 
