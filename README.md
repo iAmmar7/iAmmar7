@@ -76,8 +76,6 @@ Here are some ideas to get you started:
 [<img style="padding: 6px" align="left" alt="Serverless" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless 'Serverless')\
 \
 
-<br />
-
 #### Databases
 
 [<img style="padding: 6px" align="left" alt="MongoDB" width="25px" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" />](https://github.com/mongodb 'MongoDB')
