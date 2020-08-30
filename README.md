@@ -48,14 +48,14 @@ Here are some ideas to get you started:
 [<img align="left" alt="Node" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/topics/node)
 [<img align="left" alt="Express" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://github.com/topics/express)
 [<img align="left" alt="Passport" width="25px" src="https://avatars0.githubusercontent.com/u/1160530?s=200&v=4" />](https://github.com/passport)
-[<img align="left" alt="Mongoose" width="25px" src="[<img align="left" alt="Passport" width="25px" src="https://avatars0.githubusercontent.com/u/1160530?s=200&v=4" />](https://github.com/topics/passport)" />](https://github.com/mongoosejs)
+[<img align="left" alt="Mongoose" width="25px" src="https://avatars2.githubusercontent.com/u/7552965?s=200&v=4" />](https://github.com/mongoosejs)
 [<img align="left" alt="Sequelize" width="25px" src="https://avatars1.githubusercontent.com/u/3591786?s=200&v=4" />](https://github.com/sequelize)
 [<img align="left" alt="Apollo-Server" width="25px" src="https://user-images.githubusercontent.com/841294/53402609-b97a2180-39ba-11e9-8100-812bab86357c.png" />](https://github.com/apollographql)
 [<img align="left" alt="Graphql-Yoga" width="25px" src="https://camo.githubusercontent.com/389368863d9b9df25acd07644bad7642459c3533/68747470733a2f2f696d6775722e636f6d2f5376366a3042362e706e67" />](https://github.com/prisma-labs/graphql-yoga)
 [<img align="left" alt="SocketIO" width="25px" src="https://avatars1.githubusercontent.com/u/10566080?s=200&v=4" />](https://github.com/socketio)
 [<img align="left" alt="JWT" width="25px" src="https://avatars3.githubusercontent.com/u/10998651?s=200&v=4" />](https://github.com/jwt)
 [<img align="left" alt="Google APIs" width="25px" src="https://avatars3.githubusercontent.com/u/16785467?s=200&v=4" />](https://github.com/googleapis)
-[<img align="left" alt="WooCommerce REST API" width="25px" src="[<img align="left" alt="Google APIs" width="25px" src="https://avatars3.githubusercontent.com/u/16785467?s=200&v=4" />](https://github.com/googleapis)" />](https://woocommerce.github.io/woocommerce-rest-api-docs/)
+[<img align="left" alt="WooCommerce REST API" width="25px" src="https://woocommerce.github.io/woocommerce-rest-api-docs/images/logo.png" />](https://woocommerce.github.io/woocommerce-rest-api-docs/)
 
 <br />
 <br />
