@@ -79,8 +79,8 @@ Here are some ideas to get you started:
 [<img style="padding: 6px;" align="left" alt="Nodemailer" width="30px" src="https://avatars0.githubusercontent.com/u/16486629?s=200&v=4" />](https://github.com/nodemailer 'Nodemailer')
 [<img style="padding: 6px" align="left" alt="Heroku" width="25px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />](https://github.com/heroku 'Heroku')
 [<img style="padding: 6px" align="left" alt="Surge" width="25px" src="https://avatars0.githubusercontent.com/u/11480641?s=200&v=4" />](https://github.com/surge-sh 'Surge')
-[<img style="padding: 6px" align="left" alt="Serverless" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless 'Serverless')  <br />  
-
+[<img style="padding: 6px" align="left" alt="Serverless" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless 'Serverless')  <br />  \
+\
 ---
 
 [working]: https://parhako.com
