@@ -61,6 +61,14 @@ Here are some ideas to get you started:
 [<img align="left" alt="YouTube Data API" width="25px" src="https://avatars3.githubusercontent.com/u/4052902?s=200&v=4" />](https://github.com/topics/youtube-data-api)
 
 <br />
+
+#### Databases
+
+[<img align="left" alt="MongoDB" width="25px" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" />](https://github.com/mongodb)
+[<img align="left" alt="MySQL" width="25px" src="https://avatars2.githubusercontent.com/u/2452804?s=200&v=4" />](https://github.com/mysql)
+[<img align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" />](https://github.com/redis)
+
+<br />
 <br />
 
 [working]: https://parhako.com
