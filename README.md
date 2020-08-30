@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
 
+<br />
+
 ---
 
-<br />
 <br />
 
 ### List of languages and some of the tools that I have used in my projects:
@@ -86,6 +87,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="MongoDB" width="25px" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" />](https://github.com/mongodb)
 [<img align="left" alt="MySQL" width="25px" src="https://avatars2.githubusercontent.com/u/2452804?s=200&v=4" />](https://github.com/mysql)
 [<img align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" />](https://github.com/redis)
+
+<br />
 
 ---
 
