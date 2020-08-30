@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [<img align="left" alt="iAmmar7 | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/itsammar.7)
 [<img align="left" alt="iAmmar7 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/itsammar7)
 [<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/iammar7)
-[<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />](iammar7@yahoo.com)
+[<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />](mailto:iammar7@yahoo.com)
