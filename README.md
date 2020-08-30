@@ -56,8 +56,9 @@ Here are some ideas to get you started:
 
 #### Server Side
 
-[<img align="left" alt="Node" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/topics/node)
-[<img align="left" alt="Express" width="60px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://github.com/topics/express)
+[<img align="left" alt="Node" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/nodejs)
+[<img align="left" alt="Node" width="25px" src="https://avatars0.githubusercontent.com/u/6078720?s=200&v=4" />](https://github.com/npm)
+[<img align="left" alt="Express" width="60px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://github.com/expressjs)
 [<img align="left" alt="Passport" width="25px" src="https://avatars0.githubusercontent.com/u/1160530?s=200&v=4" />](https://github.com/passport)
 [<img align="left" alt="Mongoose" width="25px" src="https://avatars2.githubusercontent.com/u/7552965?s=200&v=4" />](https://github.com/mongoosejs)
 [<img align="left" alt="Sequelize" width="25px" src="https://avatars1.githubusercontent.com/u/3591786?s=200&v=4" />](https://github.com/sequelize)
@@ -71,6 +72,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/856813?s=200&v=4" />](https://github.com/stripe)
 [<img align="left" alt="YouTube Data API" width="25px" src="https://avatars3.githubusercontent.com/u/4052902?s=200&v=4" />](https://github.com/topics/youtube-data-api)
 [<img align="left" alt="Nodemailer" width="40px" src="https://avatars0.githubusercontent.com/u/16486629?s=200&v=4" />](https://github.com/nodemailer)
+[<img align="left" alt="Heroku" width="25px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />](https://github.com/heroku)
+[<img align="left" alt="Heroku" width="25px" src="https://avatars0.githubusercontent.com/u/11480641?s=200&v=4" />](https://github.com/surge-sh)
+[<img align="left" alt="Heroku" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless)
 
 <br />
 
