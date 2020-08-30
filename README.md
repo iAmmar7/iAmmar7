@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
 
+---
+
 <br />
 <br />
 
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="NextJS" width="25px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />](https://github.com/vercel/next.js)
 [<img align="left" alt="Babel" width="25px" src="https://avatars0.githubusercontent.com/u/9637642?s=200&v=4" />](https://github.com/babel)
 [<img align="left" alt="Webpack" width="25px" src="https://avatars1.githubusercontent.com/u/2105791?s=200&v=4" />](https://github.com/webpack)
-[<img align="left" alt="WordPress" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress) \
+[<img align="left" alt="WordPress" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress)
 
 <br />
 
@@ -50,7 +52,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="React-Native" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](https://github.com/facebook/react-native)
 [<img align="left" alt="Android Studio" width="25px" src="https://avatars1.githubusercontent.com/u/32689599?s=200&v=4" />](https://github.com/android)
 [<img align="left" alt="Google Maps" width="25px" src="https://avatars0.githubusercontent.com/u/3717923?s=200&v=4" />](https://github.com/googlemaps)
-[<img align="left" alt="Firebase" width="25px" src="https://avatars2.githubusercontent.com/u/1335026?s=200&v=4" />](https://github.com/firebase) \
+[<img align="left" alt="Firebase" width="25px" src="https://avatars2.githubusercontent.com/u/1335026?s=200&v=4" />](https://github.com/firebase)
 
 <br />
 
@@ -71,10 +73,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="WooCommerce REST API" width="50px" height="25px" src="https://woocommerce.github.io/woocommerce-rest-api-docs/images/logo.png" />](https://woocommerce.github.io/woocommerce-rest-api-docs/)
 [<img align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/856813?s=200&v=4" />](https://github.com/stripe)
 [<img align="left" alt="YouTube Data API" width="25px" src="https://avatars3.githubusercontent.com/u/4052902?s=200&v=4" />](https://github.com/topics/youtube-data-api)
-[<img align="left" alt="Nodemailer" width="40px" src="https://avatars0.githubusercontent.com/u/16486629?s=200&v=4" />](https://github.com/nodemailer)
+
+<!-- [<img align="left" alt="Nodemailer" width="40px" src="https://avatars0.githubusercontent.com/u/16486629?s=200&v=4" />](https://github.com/nodemailer)
 [<img align="left" alt="Heroku" width="25px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />](https://github.com/heroku)
 [<img align="left" alt="Heroku" width="25px" src="https://avatars0.githubusercontent.com/u/11480641?s=200&v=4" />](https://github.com/surge-sh)
-[<img align="left" alt="Heroku" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless) \
+[<img align="left" alt="Heroku" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless) -->
 
 <br />
 
@@ -82,9 +85,10 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="MongoDB" width="25px" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" />](https://github.com/mongodb)
 [<img align="left" alt="MySQL" width="25px" src="https://avatars2.githubusercontent.com/u/2452804?s=200&v=4" />](https://github.com/mysql)
-[<img align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" />](https://github.com/redis) \
+[<img align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" />](https://github.com/redis)
 
-<br />
+---
+
 <br />
 
 [working]: https://parhako.com
