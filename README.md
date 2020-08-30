@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### List of languages and tools I have used in my projects:
+### List of languages and some of the tools I have used in my projects:
 
 #### Web
 
@@ -38,8 +38,19 @@ Here are some ideas to get you started:
 [<img align="left" alt="Apollo" width="50px" height="25px" src="https://repository-images.githubusercontent.com/96246170/dce69800-20c4-11ea-8e02-181f257c4b4e" />](https://github.com/apollographql/apollo-client)
 [<img align="left" alt="GraphQL" width="25px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />](https://github.com/graphql)
 [<img align="left" alt="Gatsby" width="25px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />](https://github.com/gatsbyjs)
-[<img align="left" alt="NextJS" width="50px" height="25px" src="https://camo.githubusercontent.com/0bbf728fe4c8b213f3723eaac321fbb30e68be19/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313533383336313039312f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6a732e706e67" />](https://github.com/vercel/next.js)
+[<img align="left" alt="NextJS" width="25px" src="https://camo.githubusercontent.com/0bbf728fe4c8b213f3723eaac321fbb30e68be19/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313533383336313039312f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6a732e706e67" />](https://github.com/vercel/next.js)
+[<img align="left" alt="Babel" width="25px" src="https://avatars0.githubusercontent.com/u/9637642?s=200&v=4" />](https://github.com/babel)
+[<img align="left" alt="Webpack" width="25px" src="https://avatars1.githubusercontent.com/u/2105791?s=200&v=4" />](https://github.com/webpack)
 [<img align="left" alt="WordPress" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress)
+
+<br />
+
+#### Mobile
+
+[<img align="left" alt="React-Native" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](https://github.com/facebook/react-native)
+[<img align="left" alt="Android Studio" width="25px" src="https://avatars1.githubusercontent.com/u/32689599?s=200&v=4" />](https://github.com/android)
+[<img align="left" alt="Google Maps" width="25px" src="https://avatars0.githubusercontent.com/u/3717923?s=200&v=4" />](https://github.com/googlemaps)
+[<img align="left" alt="Firebase" width="25px" src="https://avatars2.githubusercontent.com/u/1335026?s=200&v=4" />](https://github.com/firebase)
 
 <br />
 
@@ -59,6 +70,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="WooCommerce REST API" width="50px" height="25px" src="https://woocommerce.github.io/woocommerce-rest-api-docs/images/logo.png" />](https://woocommerce.github.io/woocommerce-rest-api-docs/)
 [<img align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/856813?s=200&v=4" />](https://github.com/stripe)
 [<img align="left" alt="YouTube Data API" width="25px" src="https://avatars3.githubusercontent.com/u/4052902?s=200&v=4" />](https://github.com/topics/youtube-data-api)
+[<img align="left" alt="Nodemailer" width="25px" src="https://avatars0.githubusercontent.com/u/16486629?s=200&v=4" />](https://github.com/nodemailer)
 
 <br />
 
