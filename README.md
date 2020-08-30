@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="Material-UI" width="25px" src="https://camo.githubusercontent.com/cf05625198fe7b6ad8a302d1ce16bc99b93ec2ac/68747470733a2f2f6d6174657269616c2d75692e636f6d2f7374617469632f6c6f676f2e737667" />](https://github.com/topics/material-ui)
 [<img align="left" alt="Ant Design" width="25px" src="https://camo.githubusercontent.com/bc93494c1f9faf29cae5064245e03f086a2cb1b5/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" />](https://github.com/topics/ant-design)
 [<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/topics/javascript)
-[<img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/topics/react)
-[<img align="left" alt="Redux" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](https://github.com/topics/redux)
-[<img align="left" alt="Apollo" width="50px" height="25px" src="https://repository-images.githubusercontent.com/96246170/dce69800-20c4-11ea-8e02-181f257c4b4e" />](https://github.com/topics/apollo)
-[<img align="left" alt="GraphQL" width="25px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />](https://github.com/topics/graphql)
-[<img align="left" alt="Gatsby" width="25px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />](https://github.com/topics/gatsby)
-[<img align="left" alt="NextJS" width="50px" height="25px" src="https://repository-images.githubusercontent.com/70107786/6532af00-82ea-11ea-9d1a-7fcded8ac5d3" />](https://github.com/topics/nextjs)
+[<img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/reactjs)
+[<img align="left" alt="Redux" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](https://github.com/reduxjs)
+[<img align="left" alt="Apollo" width="50px" height="25px" src="https://repository-images.githubusercontent.com/96246170/dce69800-20c4-11ea-8e02-181f257c4b4e" />](https://github.com/apollographql/apollo-client)
+[<img align="left" alt="GraphQL" width="25px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />](https://github.com/graphql)
+[<img align="left" alt="Gatsby" width="25px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />](https://github.com/gatsbyjs)
+[<img align="left" alt="NextJS" width="50px" height="25px" src="https://camo.githubusercontent.com/0bbf728fe4c8b213f3723eaac321fbb30e68be19/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313533383336313039312f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6a732e706e67" />](https://github.com/vercel/next.js)
 [<img align="left" alt="WordPress" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress)
 
 <br />
