@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/topics/javascript)
 [<img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/reactjs)
 [<img align="left" alt="Redux" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](https://github.com/reduxjs)
-[<img align="left" alt="Apollo" width="50px" height="25px" src="https://repository-images.githubusercontent.com/96246170/dce69800-20c4-11ea-8e02-181f257c4b4e" />](https://github.com/apollographql/apollo-client)
+[<img align="left" alt="Apollo" width="60px" height="25px" src="https://repository-images.githubusercontent.com/96246170/dce69800-20c4-11ea-8e02-181f257c4b4e" />](https://github.com/apollographql/apollo-client)
 [<img align="left" alt="GraphQL" width="25px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />](https://github.com/graphql)
 [<img align="left" alt="Gatsby" width="25px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />](https://github.com/gatsbyjs)
 [<img align="left" alt="NextJS" width="25px" src="https://camo.githubusercontent.com/0bbf728fe4c8b213f3723eaac321fbb30e68be19/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313533383336313039312f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6a732e706e67" />](https://github.com/vercel/next.js)
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 #### Server Side
 
 [<img align="left" alt="Node" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/topics/node)
-[<img align="left" alt="Express" width="50px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://github.com/topics/express)
+[<img align="left" alt="Express" width="60px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://github.com/topics/express)
 [<img align="left" alt="Passport" width="25px" src="https://avatars0.githubusercontent.com/u/1160530?s=200&v=4" />](https://github.com/passport)
 [<img align="left" alt="Mongoose" width="25px" src="https://avatars2.githubusercontent.com/u/7552965?s=200&v=4" />](https://github.com/mongoosejs)
 [<img align="left" alt="Sequelize" width="25px" src="https://avatars1.githubusercontent.com/u/3591786?s=200&v=4" />](https://github.com/sequelize)
