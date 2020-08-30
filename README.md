@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### Languages and Tools:
+### List of languages and tools I have used in my projects:
 
 #### Web
 
@@ -34,17 +34,18 @@ Here are some ideas to get you started:
 [<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/topics/javascript)
 [<img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/topics/react)
 [<img align="left" alt="Gatsby" width="25px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />](https://github.com/topics/gatsby)
+[<img align="left" alt="NextJS" width="25px" src="https://repository-images.githubusercontent.com/70107786/6532af00-82ea-11ea-9d1a-7fcded8ac5d3" />](https://github.com/topics/nextjs)
 [<img align="left" alt="WordPress" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress)
 
 <br />
 
 #### Server Side
 
-[<img align="left" alt="Node" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/topics/node)]
+[<img align="left" alt="Node" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/topics/node)
 [<img align="left" alt="Express" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://github.com/topics/express)
 
-<!-- <br />
-<br /> -->
+<br />
+<br />
 
 [working]: https://parhako.com
 [facebook]: https://www.facebook.com/itsammar.7
