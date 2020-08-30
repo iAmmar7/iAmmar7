@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [VS Code Course][website]!
+- 🔭 I’m currently working on [An e-learning platform project][https://parhako.com]!
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate in some open source projects
 - 💬 Ask me about JavaScript
