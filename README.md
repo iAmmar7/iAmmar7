@@ -72,11 +72,10 @@ Here are some ideas to get you started:
 [<img style="padding: 6px" align="left" alt="WooCommerce REST API" width="50px" height="25px" src="https://woocommerce.github.io/woocommerce-rest-api-docs/images/logo.png" />](https://woocommerce.github.io/woocommerce-rest-api-docs/)
 [<img style="padding: 6px" align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/856813?s=200&v=4" />](https://github.com/stripe)
 [<img style="padding: 6px" align="left" alt="YouTube Data API" width="25px" src="https://avatars3.githubusercontent.com/u/4052902?s=200&v=4" />](https://github.com/topics/youtube-data-api)
-
-<!-- [<img style="padding: 6px" align="left" alt="Nodemailer" width="40px" src="https://avatars0.githubusercontent.com/u/16486629?s=200&v=4" />](https://github.com/nodemailer)
+[<img style="padding: 6px" align="left" alt="Nodemailer" width="40px" src="https://avatars0.githubusercontent.com/u/16486629?s=200&v=4" />](https://github.com/nodemailer)
 [<img style="padding: 6px" align="left" alt="Heroku" width="25px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />](https://github.com/heroku)
 [<img style="padding: 6px" align="left" alt="Heroku" width="25px" src="https://avatars0.githubusercontent.com/u/11480641?s=200&v=4" />](https://github.com/surge-sh)
-[<img style="padding: 6px" align="left" alt="Heroku" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless) -->
+[<img style="padding: 6px" align="left" alt="Heroku" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless)
 
 <br />
 
