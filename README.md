@@ -84,7 +84,9 @@ Here are some ideas to get you started:
 
 ---
 
-### New Section (will add soon ...)
+### Stats
+
+<img align="left" alt="iAmmar7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iAmmar7&show_icons=true&hide_border=true" />
 
 [working]: https://parhako.com
 [facebook]: https://www.facebook.com/itsammar.7
