@@ -53,12 +53,6 @@ Here are some ideas to get you started:
 [<img style="padding: 6px" align="left" alt="Google Maps" width="25px" src="https://avatars0.githubusercontent.com/u/3717923?s=200&v=4" />](https://github.com/googlemaps 'Google Maps API')
 [<img style="padding: 6px" align="left" alt="Firebase" width="25px" src="https://avatars2.githubusercontent.com/u/1335026?s=200&v=4" />](https://github.com/firebase 'Firebase')<br/>
 
-#### Databases
-
-[<img style="padding: 6px" align="left" alt="MongoDB" width="25px" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" />](https://github.com/mongodb 'MongoDB')
-[<img style="padding: 6px" align="left" alt="MySQL" width="25px" src="https://avatars2.githubusercontent.com/u/2452804?s=200&v=4" />](https://github.com/mysql 'MySQl')
-[<img style="padding: 6px" align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" />](https://github.com/redis 'Redis')<br/>
-
 #### Server Side
 
 [<img style="padding: 6px" align="left" alt="Node" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/nodejs 'NodeJS')
@@ -83,6 +77,12 @@ Here are some ideas to get you started:
 \
 
 <br />
+
+#### Databases
+
+[<img style="padding: 6px" align="left" alt="MongoDB" width="25px" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" />](https://github.com/mongodb 'MongoDB')
+[<img style="padding: 6px" align="left" alt="MySQL" width="25px" src="https://avatars2.githubusercontent.com/u/2452804?s=200&v=4" />](https://github.com/mysql 'MySQl')
+[<img style="padding: 6px" align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" />](https://github.com/redis 'Redis')<br />
 
 ---
 
