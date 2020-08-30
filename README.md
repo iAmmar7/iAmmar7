@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="SocketIO" width="25px" src="https://avatars1.githubusercontent.com/u/10566080?s=200&v=4" />](https://github.com/socketio)
 [<img align="left" alt="JWT" width="25px" src="https://avatars3.githubusercontent.com/u/10998651?s=200&v=4" />](https://github.com/jwt)
 [<img align="left" alt="Google APIs" width="25px" src="https://avatars3.githubusercontent.com/u/16785467?s=200&v=4" />](https://github.com/googleapis)
-[<img align="left" alt="WooCommerce REST API" width="25px" src="https://woocommerce.github.io/woocommerce-rest-api-docs/images/logo.png" />](https://woocommerce.github.io/woocommerce-rest-api-docs/)
+[<img align="left" alt="WooCommerce REST API" width="50px" height="25px" src="https://woocommerce.github.io/woocommerce-rest-api-docs/images/logo.png" />](https://woocommerce.github.io/woocommerce-rest-api-docs/)
+[<img align="left" alt="Node-Cron" width="25px" src="https://avatars0.githubusercontent.com/u/43762977?s=200&v=4" />](https://github.com/node-cron)
 
 <br />
 <br />
