@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### List of languages and some of the tools that I have used in my projects:
 
-![Ammar's skills-set](skills-set.png 'Skills')
+![Ammar's skills-set](./skills-set.png)
 
 <br />
 
