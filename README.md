@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### List of languages and some of the tools that I have used in my projects:
 
-![Ammar's skills-set](./assets/skills-set.PNG)
+![Ammar's skills-set](./assets/skills-set.PNG?raw=true)
 
 <br />
 
