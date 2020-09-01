@@ -19,15 +19,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="iAmmar7 | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="iAmmar7 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iAmmar7 | Yahoo" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
+[<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
 
 <br />
 
 ---
 
 ### List of languages and some of the tools that I have used in my projects:
-
-<!-- ![Ammar's skills-set](https://github.com/iAmmar7/iAmmar7/blob/master/assets/skills-set.PNG?raw=true) -->
 
 #### Web
 
@@ -75,7 +73,8 @@ Here are some ideas to get you started:
 [<img style="padding: 6px;" align="left" alt="Nodemailer" width="30px" src="https://avatars0.githubusercontent.com/u/16486629?s=200&v=4" />](https://github.com/nodemailer 'Nodemailer')
 [<img style="padding: 6px" align="left" alt="Heroku" width="25px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />](https://github.com/heroku 'Heroku')
 [<img style="padding: 6px" align="left" alt="Surge" width="25px" src="https://avatars0.githubusercontent.com/u/11480641?s=200&v=4" />](https://github.com/surge-sh 'Surge')
-[<img style="padding: 6px" align="left" alt="Serverless" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless 'Serverless')<br/>
+[<img style="padding: 6px" align="left" alt="Serverless" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless 'Serverless')\
+\
 
 #### Databases
 
@@ -87,7 +86,7 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-[![Ammar's Github Stats](https://github-readme-stats.vercel.app/api?username=iAmmar7&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ammar's Github Stats](https://github-readme-stats.vercel.app/api?username=iAmmar7&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmmar7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [working]: https://parhako.com
