@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [<img style="padding: 6px" align="left" alt="C++" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/64px-ISO_C%2B%2B_Logo.svg.png" />](https://cplusplus.com 'C++')
 [<img style="padding: 6px" align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/topics/javascript 'JavaScript')
-[<img style="padding: 6px" align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/reactjs 'ReactJS')
+[<img style="padding: 6px" align="left" alt="React" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" />](https://github.com/reactjs 'ReactJS')
 [<img style="padding: 6px" align="left" alt="Redux" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](https://github.com/reduxjs 'ReduxJS')
 [<img style="padding: 6px" align="left" alt="GraphQL" width="25px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />](https://github.com/graphql 'GraphQL')
 [<img style="padding: 6px" align="left" alt="NextJS" width="25px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />](https://github.com/vercel/next.js 'NextJS')
