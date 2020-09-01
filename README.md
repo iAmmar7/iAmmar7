@@ -33,27 +33,10 @@ Here are some ideas to get you started:
 [<img style="padding: 6px" align="left" alt="GraphQL" width="25px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />](https://github.com/graphql 'GraphQL')
 [<img style="padding: 6px" align="left" alt="NextJS" width="25px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />](https://github.com/vercel/next.js 'NextJS')
 [<img style="padding: 6px" align="left" alt="Node" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/nodejs 'NodeJS')
-[<img style="padding: 6px" align="left" alt="Node" width="25px" src="https://avatars0.githubusercontent.com/u/6078720?s=200&v=4" />](https://github.com/npm 'NPM')
-[<img style="padding: 6px" align="left" alt="Express" width="60px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://github.com/expressjs 'ExpressJS')
-[<img style="padding: 6px" align="left" alt="Passport" width="25px" src="https://avatars0.githubusercontent.com/u/1160530?s=200&v=4" />](https://github.com/passport 'PassportJS')
-[<img style="padding: 6px" align="left" alt="Mongoose" width="25px" src="https://avatars2.githubusercontent.com/u/7552965?s=200&v=4" />](https://github.com/mongoosejs 'MongooseJS')
-[<img style="padding: 6px" align="left" alt="Sequelize" width="25px" src="https://avatars1.githubusercontent.com/u/3591786?s=200&v=4" />](https://github.com/sequelize 'SequelizeJS')
-[<img style="padding: 6px" align="left" alt="Apollo-Server" width="50px" height="25px" src="https://user-images.githubusercontent.com/841294/53402609-b97a2180-39ba-11e9-8100-812bab86357c.png" />](https://github.com/apollographql 'Apollo Server')
-[<img style="padding: 6px" align="left" alt="Graphql-Yoga" width="25px" src="https://camo.githubusercontent.com/389368863d9b9df25acd07644bad7642459c3533/68747470733a2f2f696d6775722e636f6d2f5376366a3042362e706e67" />](https://github.com/prisma-labs/graphql-yoga 'GraphQL Yoga')
-[<img style="padding: 6px" align="left" alt="SocketIO" width="25px" src="https://avatars1.githubusercontent.com/u/10566080?s=200&v=4" />](https://github.com/socketio 'Socket.io')
-[<img style="padding: 6px" align="left" alt="JWT" width="25px" src="https://avatars3.githubusercontent.com/u/10998651?s=200&v=4" />](https://github.com/jwt 'JSON Web Token')
-[<img style="padding: 6px" align="left" alt="Google APIs" width="25px" src="https://avatars3.githubusercontent.com/u/16785467?s=200&v=4" />](https://github.com/googleapis 'Google APIs')
-[<img style="padding: 6px" align="left" alt="Node-Cron" width="25px" src="https://avatars0.githubusercontent.com/u/43762977?s=200&v=4" />](https://github.com/node-cron 'Node Cron Jobs')
-[<img style="padding: 6px" align="left" alt="WooCommerce REST API" width="50px" height="25px" src="https://woocommerce.github.io/woocommerce-rest-api-docs/images/logo.png" />](https://woocommerce.github.io/woocommerce-rest-api-docs/ 'WooCommerce REST API')
-[<img style="padding: 6px" align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/856813?s=200&v=4" />](https://github.com/stripe 'Stripe Payment Gateway')
-[<img style="padding: 6px" align="left" alt="YouTube Data API" width="25px" src="https://avatars3.githubusercontent.com/u/4052902?s=200&v=4" />](https://github.com/topics/youtube-data-api 'Youtube Data API')
-[<img style="padding: 6px;" align="left" alt="Nodemailer" width="30px" src="https://avatars0.githubusercontent.com/u/16486629?s=200&v=4" />](https://github.com/nodemailer 'Nodemailer')
-[<img style="padding: 6px" align="left" alt="Heroku" width="25px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />](https://github.com/heroku 'Heroku')
-[<img style="padding: 6px" align="left" alt="Surge" width="25px" src="https://avatars0.githubusercontent.com/u/11480641?s=200&v=4" />](https://github.com/surge-sh 'Surge')
-[<img style="padding: 6px" align="left" alt="Serverless" width="25px" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4" />](https://github.com/serverless 'Serverless')
 [<img style="padding: 6px" align="left" alt="MongoDB" width="25px" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" />](https://github.com/mongodb 'MongoDB')
 [<img style="padding: 6px" align="left" alt="MySQL" width="25px" src="https://avatars2.githubusercontent.com/u/2452804?s=200&v=4" />](https://github.com/mysql 'MySQl')
-[<img style="padding: 6px" align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" />](https://github.com/redis 'Redis')//
+[<img style="padding: 6px" align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" />](https://github.com/redis 'Redis')
+
 <br />
 
 ---
