@@ -25,28 +25,13 @@ Here are some ideas to get you started:
 
 ---
 
-### List of languages and some of the tools that I have used in my projects:
+### Languages and Tools:
 
-[<img style="padding: 6px" align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/topics/html 'HTML')
-[<img style="padding: 6px" align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/topics/css 'CSS')
-[<img style="padding: 6px" align="left" alt="Sass" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://github.com/topics/sass 'Sass')
-[<img style="padding: 6px" align="left" alt="Bootstrap" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />](https://github.com/topics/bootstrap 'Bootstrap')
-[<img style="padding: 6px" align="left" alt="Material-UI" width="25px" src="https://camo.githubusercontent.com/cf05625198fe7b6ad8a302d1ce16bc99b93ec2ac/68747470733a2f2f6d6174657269616c2d75692e636f6d2f7374617469632f6c6f676f2e737667" />](https://github.com/topics/material-ui 'Material-UI')
-[<img style="padding: 6px" align="left" alt="Ant Design" width="25px" src="https://camo.githubusercontent.com/bc93494c1f9faf29cae5064245e03f086a2cb1b5/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" />](https://github.com/topics/ant-design 'Ant Design')
 [<img style="padding: 6px" align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/topics/javascript 'JavaScript')
 [<img style="padding: 6px" align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/reactjs 'ReactJS')
 [<img style="padding: 6px" align="left" alt="Redux" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](https://github.com/reduxjs 'ReduxJS')
-[<img style="padding: 6px" align="left" alt="Apollo" width="60px" height="25px" src="https://repository-images.githubusercontent.com/96246170/dce69800-20c4-11ea-8e02-181f257c4b4e" />](https://github.com/apollographql/apollo-client 'Apollo-Client')
 [<img style="padding: 6px" align="left" alt="GraphQL" width="25px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />](https://github.com/graphql 'GraphQL')
-[<img style="padding: 6px" align="left" alt="Gatsby" width="25px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />](https://github.com/gatsbyjs 'GatsbyJS')
 [<img style="padding: 6px" align="left" alt="NextJS" width="25px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />](https://github.com/vercel/next.js 'NextJS')
-[<img style="padding: 6px" align="left" alt="Babel" width="25px" src="https://avatars0.githubusercontent.com/u/9637642?s=200&v=4" />](https://github.com/babel 'Babel')
-[<img style="padding: 6px" align="left" alt="Webpack" width="25px" src="https://avatars1.githubusercontent.com/u/2105791?s=200&v=4" />](https://github.com/webpack 'Webpack')
-[<img style="padding: 6px" align="left" alt="WordPress" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />](https://github.com/topics/wordpress 'WordPress')<br/>
-[<img style="padding: 6px" align="left" alt="React-Native" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](https://github.com/facebook/react-native 'React-Native')
-[<img style="padding: 6px" align="left" alt="Android Studio" width="25px" src="https://avatars1.githubusercontent.com/u/32689599?s=200&v=4" />](https://github.com/android 'Android Development')
-[<img style="padding: 6px" align="left" alt="Google Maps" width="25px" src="https://avatars0.githubusercontent.com/u/3717923?s=200&v=4" />](https://github.com/googlemaps 'Google Maps API')
-[<img style="padding: 6px" align="left" alt="Firebase" width="25px" src="https://avatars2.githubusercontent.com/u/1335026?s=200&v=4" />](https://github.com/firebase 'Firebase')<br/>
 [<img style="padding: 6px" align="left" alt="Node" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/nodejs 'NodeJS')
 [<img style="padding: 6px" align="left" alt="Node" width="25px" src="https://avatars0.githubusercontent.com/u/6078720?s=200&v=4" />](https://github.com/npm 'NPM')
 [<img style="padding: 6px" align="left" alt="Express" width="60px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://github.com/expressjs 'ExpressJS')
