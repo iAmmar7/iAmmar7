@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ### Languages and and some tools:
 
+[<img style="padding: 6px" align="left" alt="C++" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/64px-ISO_C%2B%2B_Logo.svg.png" />](https://cplusplus.com 'C++')
 [<img style="padding: 6px" align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/topics/javascript 'JavaScript')
 [<img style="padding: 6px" align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/reactjs 'ReactJS')
 [<img style="padding: 6px" align="left" alt="Redux" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](https://github.com/reduxjs 'ReduxJS')
