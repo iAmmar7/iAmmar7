@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="iAmmar7 | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="iAmmar7 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
+[<img align="left" alt="iAmmar7 | Yahoo" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
 
 <br />
 
@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 ### List of languages and some of the tools that I have used in my projects:
 
-#### Web
+![Ammar's Skill Set](https://github.com/iAmmar7/iAmmar7/blob/master/assets/skills-set.PNG?raw=true)
+
+<!-- #### Web
 
 [<img style="padding: 6px" align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/topics/html 'HTML')
 [<img style="padding: 6px" align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/topics/css 'CSS')
@@ -80,7 +82,7 @@ Here are some ideas to get you started:
 
 [<img style="padding: 6px" align="left" alt="MongoDB" width="25px" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" />](https://github.com/mongodb 'MongoDB')
 [<img style="padding: 6px" align="left" alt="MySQL" width="25px" src="https://avatars2.githubusercontent.com/u/2452804?s=200&v=4" />](https://github.com/mysql 'MySQl')
-[<img style="padding: 6px" align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" />](https://github.com/redis 'Redis')<br />
+[<img style="padding: 6px" align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" />](https://github.com/redis 'Redis')<br /> -->
 
 ---
 
