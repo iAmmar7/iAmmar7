@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### List of languages and some of the tools that I have used in my projects:
 
-[<img align="center" alt="Skill-Set" width="100px" src="./skills-set" />](https://github.com/iAmmar7 'iAmmar's skills')
+![Ammar's skills-set](skills-set.png 'Skills')
 
 <br />
 
