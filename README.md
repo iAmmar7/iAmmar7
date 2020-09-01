@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="iAmmar7 | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="iAmmar7 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
+[<img align="left" alt="iAmmar7 | Yahoo" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
 
 <br />
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### List of languages and some of the tools that I have used in my projects:
 
-![Ammar's skills-set](./assets/skills-set.PNG?raw=true)
+![Ammar's skills-set](https://github.com/iAmmar7/iAmmar7/blob/master/assets/skills-set.PNG?raw=true)
 
 <br />
 
