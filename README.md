@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 [<img style="padding: 6px" align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/reactjs 'ReactJS')
 [<img style="padding: 6px" align="left" alt="GraphQL" width="25px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />](https://github.com/graphql 'GraphQL')
 [<img style="padding: 6px" align="left" alt="Node" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/nodejs 'NodeJS')
-[<img style="padding: 6px" align="left" alt="MongoDB" width="25px" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" />](https://github.com/mongodb 'MongoDB')
-[<img style="padding: 6px" align="left" alt="Stripe" width="25px" src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" />](https://github.com/redis 'Redis')
 
 <br />
 
