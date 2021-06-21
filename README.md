@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 
 ### System Engineer | Full-Stack Developer | Inquisitive | Philomath
 
-- 🔭 I’m currently working on an [E-learning platform][working]!
-- 🌱 I’m currently learning [NextJS](https://github.com/vercel/next.js)
-- 👯 I’m looking to contribute in some open source projects 📂
+- 🔭 Working on an [E-learning platform][working]!
+- 🌱 Currently learning [NextJS](https://github.com/vercel/next.js)
+- 👯 Looking to contribute in some open source projects 📂
 - 💬 Ask me about anything 🤷‍♂️
 - ⚡ Fun fact: Besides coding I also love to sing 😄🎵
 
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="iAmmar7 | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="iAmmar7 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="iAmmar7 | Google" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="iAmmar7 | Yahoo" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
 
 <br />
@@ -38,13 +38,16 @@ Here are some ideas to get you started:
 ---
 
 ### GitHub Stats
-
-![Ammar's Github Stats](https://github-readme-stats.vercel.app/api?username=iAmmar7&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+#### Personal Account
+![Ammar's Github Stats](https://github-readme-stats.vercel.app/api?username=iAmmar7&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmmar7&layout=compact&theme=tokyonight)
 
+#### Company Account (public contributions only)
+![Ammar's Github Stats](https://github-readme-stats.vercel.app/api?username=iAmmar7-carecloud&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&theme=tokyonight)
+
 [working]: https://parhako.com
-[facebook]: https://www.facebook.com/itsammar.7
 [instagram]: https://www.instagram.com/itsammar7
 [linkedin]: https://www.linkedin.com/in/iammar7
 [yahoo]: mailto:iammar7@yahoo.com
+[gmail]: mailto:iammaransari@google.com
 [github]: https://github.com/iammar7
