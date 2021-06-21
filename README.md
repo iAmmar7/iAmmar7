@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 ![Ammar's Github Stats](https://github-readme-stats.vercel.app/api?username=iAmmar7&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmmar7&layout=compact&theme=tokyonight)
 
-#### Company Account (public contributions only)
-![Ammar's Github Stats](https://github-readme-stats.vercel.app/api?username=iAmmar7-carecloud&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&theme=tokyonight)
+#### Company Account (public contributions only, [iAmmar7-carecloud](https://github.com/iAmmar7-carecloud))
+[![Ammar's Github Stats](https://github-readme-stats.vercel.app/api?username=iAmmar7-carecloud&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&theme=tokyonight)](https://github.com/iAmmar7-carecloud)
 
 [working]: https://parhako.com
 [instagram]: https://www.instagram.com/itsammar7
