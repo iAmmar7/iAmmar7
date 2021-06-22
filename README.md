@@ -15,13 +15,8 @@ Here are some ideas to get you started:
 ---
 
 ### Connect with me:
-
-[<img align="left" alt="iAmmar7 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="iAmmar7 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iAmmar7 | Google" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="iAmmar7 | Yahoo" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
-
-<br />
+<p><a href="https://github.com/iammar7" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/iammar7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/itsammar7" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-dd2a7b?style=for-the-badge&labelColor=dd2a7b&logo=instagram&logoColor=white" /></a> <a href="mailto:iammaransari@google.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-BB001B?style=for-the-badge&labelColor=BB001B&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
