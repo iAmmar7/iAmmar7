@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Languages and and some tools:
+### Things I code with:
 
 [<img style="padding: 6px" align="left" alt="C++" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/64px-ISO_C%2B%2B_Logo.svg.png" />](https://cplusplus.com 'C++')
 [<img style="padding: 6px" align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/topics/javascript 'JavaScript')
@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 ---
 
-### GitHub Stats
+### <p align="center">GitHub Stats</p>
 #### Personal Account
-![Ammar's Github Stats](https://github-readme-stats.vercel.app/api?username=iAmmar7&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmmar7&layout=compact&theme=tokyonight)
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=iammar7&hide_border=true&theme=tokyonight" width="42%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=iammar7&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&hide=issues&theme=tokyonight" width="48%" >
 
 #### Company Account (public contributions only, [iAmmar7-carecloud](https://github.com/iAmmar7-carecloud))
-[![Ammar's Github Stats](https://github-readme-stats.vercel.app/api?username=iAmmar7-carecloud&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&theme=tokyonight)](https://github.com/iAmmar7-carecloud)
+<img  src="https://github-readme-stats.vercel.app/api?username=iAmmar7-carecloud&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&hide=issues,contribs,stars&theme=tokyonight" width="48%" >
 
 [working]: https://parhako.com
 [instagram]: https://www.instagram.com/itsammar7
