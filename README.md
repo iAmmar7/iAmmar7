@@ -60,6 +60,7 @@ Here are some ideas to get you started:
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2491E6?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
