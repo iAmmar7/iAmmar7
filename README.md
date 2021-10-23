@@ -49,7 +49,6 @@ Here are some ideas to get you started:
   <img alt="Antd" src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
   <img alt="Material-UI" src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=materialui&logoColor=white" />
   <img alt="StyledComponents" src="https://img.shields.io/badge/-Styled%20Components-D65AA6?style=flat-square&logo=styledcomponents&logoColor=black" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="nodemon" src="https://img.shields.io/badge/-nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" />
@@ -58,9 +57,11 @@ Here are some ideas to get you started:
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2491E6?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0068FD?style=flat-square&logo=digitalocean&logoColor=white" />
 </p>
 
 ---
