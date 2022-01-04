@@ -60,6 +60,7 @@ Here are some ideas to get you started:
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="PM2" src="https://img.shields.io/badge/-PM2-222362?style=flat-square&logo=pm2&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2491E6?style=flat-square&logo=docker&logoColor=white" />
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0068FD?style=flat-square&logo=digitalocean&logoColor=white" />
 </p>
