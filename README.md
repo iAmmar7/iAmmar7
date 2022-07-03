@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="ReactNative" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white" />
