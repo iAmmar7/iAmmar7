@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-37BDF7?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Antd" src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
   <img alt="Material-UI" src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=materialui&logoColor=white" />
   <img alt="StyledComponents" src="https://img.shields.io/badge/-Styled%20Components-D65AA6?style=flat-square&logo=styledcomponents&logoColor=black" />
