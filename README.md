@@ -71,13 +71,10 @@ Here are some ideas to get you started:
 
 ---
 
-### <p align="center">GitHub Stats</p>
-#### Personal Account
+### GitHub Stats:
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=iammar7&hide_border=true&theme=tokyonight" width="42%" align="right" >
 <img  src="https://github-readme-stats.vercel.app/api?username=iammar7&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&hide=issues&theme=tokyonight" width="48%" >
 
-#### Company Account (public contributions only, [iAmmar7-carecloud](https://github.com/iAmmar7-carecloud))
-<img  src="https://github-readme-stats.vercel.app/api?username=iAmmar7-carecloud&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&hide=issues,contribs,stars&theme=tokyonight" width="48%" >
 
 [working]: https://www.careem.com/en-ae/careem-pay/
 [instagram]: https://www.instagram.com/itsammar7
