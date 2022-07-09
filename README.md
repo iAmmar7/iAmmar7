@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 
 ### System Engineer | Full-Stack Developer | Inquisitive | Philomath
 
-- 🔭 Working on an [E-learning platform][working]!
-- 🌱 Currently learning [NextJS](https://github.com/vercel/next.js)
+- 🔭 Working on a [fintech application][working]!
+- 🌱 Currently learning [JEST](https://jestjs.io/) and [RTL](https://testing-library.com/)
 - 👯 Looking to contribute in some open source projects 📂
 - 💬 Ask me about anything 🤷‍♂️
 - ⚡ Fun fact: Besides coding I also love to sing 😄🎵
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 #### Company Account (public contributions only, [iAmmar7-carecloud](https://github.com/iAmmar7-carecloud))
 <img  src="https://github-readme-stats.vercel.app/api?username=iAmmar7-carecloud&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&hide=issues,contribs,stars&theme=tokyonight" width="48%" >
 
-[working]: https://parhako.com
+[working]: https://www.careem.com/en-ae/careem-pay/
 [instagram]: https://www.instagram.com/itsammar7
 [linkedin]: https://www.linkedin.com/in/iammar7
 [yahoo]: mailto:iammar7@yahoo.com
