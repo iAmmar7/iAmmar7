@@ -68,13 +68,13 @@ Here are some ideas to get you started:
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2491E6?style=flat-square&logo=docker&logoColor=white" />
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0068FD?style=flat-square&logo=digitalocean&logoColor=white" />
 </p>
-
+<!---
 ---
 
 ### GitHub Stats:
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=iammar7&hide_border=true&theme=tokyonight" width="42%" align="right" >
-<img  src="https://github-readme-stats.vercel.app/api?username=iammar7&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&hide=issues&theme=tokyonight" width="48%" >
-
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=iammar7&hide_border=true&theme=tokyonight" width="42%" align="right" />
+<img  src="https://github-readme-stats.vercel.app/api?username=iammar7&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&hide=issues&theme=tokyonight" width="48%" />
+--->
 
 [working]: https://www.careem.com/en-ae/careem-pay/
 [instagram]: https://www.instagram.com/itsammar7
