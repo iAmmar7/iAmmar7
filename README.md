@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-### System Engineer | Full-Stack Developer | Inquisitive | Philomath
+### System Engineer | Full-Stack Developer | Inquisitive
 
 - 🔭 Working on a [fintech application][working]!
 - 🌱 Currently learning [JEST](https://jestjs.io/) and [RTL](https://testing-library.com/)
