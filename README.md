@@ -8,9 +8,8 @@ Here are some ideas to get you started:
 
 - 🔭 Working on a [fintech application][working]!
 - 🌱 Currently learning [JEST](https://jestjs.io/) and [RTL](https://testing-library.com/)
-- 👯 Looking to contribute in some open source projects 📂
-- 💬 Ask me about anything 🤷‍♂️
-- ⚡ Fun fact: Besides coding I also love to sing 😄🎵
+- 👯 Looking to contribute to some open source projects 📂
+- ⚡ Fun fact: Besides coding, I also love to sing 😄🎵
 
 ---
 
