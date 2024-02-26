@@ -27,13 +27,17 @@ Here are some ideas to get you started:
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-4284F3?style=flat-square&logo=webrtc&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img alt="SWR" src="https://img.shields.io/badge/-SWR-111111?style=flat-square&logo=swr&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="ReduxSaga" src="https://img.shields.io/badge/-ReduxSaga-764ABC?style=flat-square&logo=redux-saga&logoColor=white" />
   <img alt="JEST" src="https://img.shields.io/badge/-JEST-C21324?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
   <img alt="ReactNative" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white" />
   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
@@ -44,6 +48,7 @@ Here are some ideas to get you started:
   <img alt="YouTube APIs" src="https://img.shields.io/badge/-YouTube%20APIs-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-FFC91F?style=flat-square&logo=vite&logoColor=black" />
   <img alt="Babel" src="https://img.shields.io/badge/-Babel-F3D73D?style=flat-square&logo=babel&logoColor=black" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
@@ -68,6 +73,7 @@ Here are some ideas to get you started:
   <img alt="PM2" src="https://img.shields.io/badge/-PM2-222362?style=flat-square&logo=pm2&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2491E6?style=flat-square&logo=docker&logoColor=white" />
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0068FD?style=flat-square&logo=digitalocean&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-222F3E?style=flat-square&logo=amazon&logoColor=white" />
 </p>
 <!---
 ---
