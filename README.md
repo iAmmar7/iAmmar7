@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 ### System Engineer | Full-Stack Developer | Inquisitive
 
 - 🔭 Working on a [fintech application][working]!
-- 🌱 Currently learning [JEST](https://jestjs.io/) and [RTL](https://testing-library.com/)
+- 🌱 Currently learning [WebRTC](https://webrtc.org/)
 - 👯 Looking to contribute to some open source projects 📂
 - ⚡ Fun fact: Besides coding, I also love to sing 😄🎵
 
