@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 
 ### System Engineer | Full-Stack Developer | Inquisitive
 
-- 🔭 Working on a [fintech application][working]!
-- 🌱 Currently learning [WebRTC](https://webrtc.org/)
-- 👯 Looking to contribute to some open source projects 📂
-- ⚡ Fun fact: Besides coding, I also love to sing 😄🎵
+- 🔭 Working on a Unified Communication as a Service (**UCaaS**) SDKs.
+- 🌱 Currently learning [WebRTC](https://webrtc.org/).
+- 👯 Looking to contribute to some open source projects. 📂
+- ⚡ Fun fact: Besides coding, I also love to sing. 😄🎵
 
 ---
 
